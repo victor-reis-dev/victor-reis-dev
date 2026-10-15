@@ -17,21 +17,11 @@
 - 🎓 Bachelor's degree in Information Systems.
 - 🔭 Beyond the day job: experimenting with AI agents, self-hosted infrastructure and developer tools.
 
-## Contribution graph
-
-![3D Contribution](profile-3d-contrib/profile-green-animate.svg)
-
-*My contribution calendar in 3D — updated daily by GitHub Actions.*
 
 ## GitHub stats
 
 <p align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details"/>
-</p>
-
-<p align="center">
-  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language"/>
 </p>
 
 ## Tech stack
